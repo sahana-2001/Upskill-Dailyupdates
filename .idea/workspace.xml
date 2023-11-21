@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab42eb41-596d-4dcb-a07f-7d3a5eed5934" name="Changes" comment="Upskill 21-11-2023" />
+    <list default="true" id="ab42eb41-596d-4dcb-a07f-7d3a5eed5934" name="Changes" comment="Upskill 21-11-2023">
+      <change afterPath="$PROJECT_DIR$/src/ControlFlow/WhoWantsToBeAMillionaireApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/object/references/ObjectReferencesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/primitives/MyFirstJavaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +38,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sr176/IdeaProjects/CoreJavaPractice/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sr176\IdeaProjects\CoreJavaPractice\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ControlFlow" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +67,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700577855414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Upskill 21-11-2023">
+      <option name="closed" value="true" />
+      <created>1700578324033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700578324033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
